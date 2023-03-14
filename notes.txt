@@ -1,0 +1,21 @@
+Os sistemas de bike-sharing estão a tornar-se cada vez mais populares e a sua gestão mais complexa. O objetivo principal desta dissertação e o desenvolvimento de um serviço de suporte de decisão, baseado em métodos de aprendizagem autom ́atica, para os sistemas de bike-sharing da empresa Bewegen.
+
+O primeiro objetivo ́e a previs ̃ao do n ́umero de bicicletas
+em cada esta ̧c ̃ao com 30 minutos de antecedˆencia, informa ̧c ̃ao esta
+a disponilizar aos clientes do sistema de bike-sharing.
+
+O segundo objetivo ́e a previs ̃ao do n ́umero de bicicletas em cada esta ̧c ̃ao com 24
+horas de antecedˆencia, informa ̧c ̃ao esta a disponilizar aos operadores
+do sistema no planeamento da distribui ̧c ̃ao das bicicletas pelas difer-
+entes esta ̧c ̃oes
+
+Para cumprir com estes objetivos foram implementados
+dois algoritmos de aprendizagem autom ́atica: uma rede neuronal e um
+algoritmo k-nearest neighbour. Os testes realizados mostram que os al-
+goritmos baseados em redes neuronais obtˆem melhor desempenho nos
+dois objectivos.
+
+
+
+
+
