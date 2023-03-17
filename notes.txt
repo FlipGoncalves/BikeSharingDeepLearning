@@ -16,6 +16,12 @@ goritmos baseados em redes neuronais obtˆem melhor desempenho nos
 dois objectivos.
 
 
+The first goal is to assist the clients of the BSS when they need to know the bike/space
+availability at the nearby stations in a short period of time. So, this is a short term
+prediction task where the goal is to predict the number of bikes in each station 30
+minutes ahead of time.
 
-
-
+The second goal is to assist the system operators on how they should distribute
+the bikes among all stations in the system. This is a long term prediction task
+because the operators need this information much early in advance. So, the goal is
+to predict the number of bikes in each station 24 hours ahead of time.
