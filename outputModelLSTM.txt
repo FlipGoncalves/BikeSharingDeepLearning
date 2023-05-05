@@ -1,0 +1,88 @@
+Epoch 1/40
+149671/149671 - 136s - loss: 30.8042 - 136s/epoch - 910us/step
+Epoch 2/40
+149671/149671 - 138s - loss: 24.9876 - 138s/epoch - 919us/step
+Epoch 3/40
+149671/149671 - 137s - loss: 24.6171 - 137s/epoch - 918us/step
+Epoch 4/40
+149671/149671 - 138s - loss: 24.3037 - 138s/epoch - 919us/step
+Epoch 5/40
+149671/149671 - 137s - loss: 23.9363 - 137s/epoch - 918us/step
+Epoch 6/40
+149671/149671 - 138s - loss: 23.7417 - 138s/epoch - 923us/step
+Epoch 7/40
+149671/149671 - 138s - loss: 23.5716 - 138s/epoch - 923us/step
+Epoch 8/40
+149671/149671 - 138s - loss: 23.4386 - 138s/epoch - 920us/step
+Epoch 9/40
+149671/149671 - 137s - loss: 23.3729 - 137s/epoch - 918us/step
+Epoch 10/40
+149671/149671 - 138s - loss: 23.2628 - 138s/epoch - 924us/step
+Epoch 11/40
+149671/149671 - 131s - loss: 23.1380 - 131s/epoch - 876us/step
+Epoch 12/40
+149671/149671 - 133s - loss: 23.1303 - 133s/epoch - 890us/step
+Epoch 13/40
+149671/149671 - 133s - loss: 23.0837 - 133s/epoch - 887us/step
+Epoch 14/40
+149671/149671 - 134s - loss: 23.0252 - 134s/epoch - 893us/step
+Epoch 15/40
+149671/149671 - 134s - loss: 22.9466 - 134s/epoch - 898us/step
+Epoch 16/40
+149671/149671 - 134s - loss: 22.9070 - 134s/epoch - 895us/step
+Epoch 17/40
+149671/149671 - 134s - loss: 22.9581 - 134s/epoch - 893us/step
+Epoch 18/40
+149671/149671 - 133s - loss: 22.9192 - 133s/epoch - 887us/step
+Epoch 19/40
+149671/149671 - 133s - loss: 22.9440 - 133s/epoch - 888us/step
+Epoch 20/40
+149671/149671 - 132s - loss: 22.7840 - 132s/epoch - 880us/step
+Epoch 21/40
+149671/149671 - 131s - loss: 22.7654 - 131s/epoch - 878us/step
+Epoch 22/40
+149671/149671 - 137s - loss: 22.7802 - 137s/epoch - 913us/step
+Epoch 23/40
+149671/149671 - 135s - loss: 22.7703 - 135s/epoch - 904us/step
+Epoch 24/40
+149671/149671 - 136s - loss: 22.7336 - 136s/epoch - 906us/step
+Epoch 25/40
+149671/149671 - 135s - loss: 22.7525 - 135s/epoch - 905us/step
+Epoch 26/40
+149671/149671 - 136s - loss: 22.7469 - 136s/epoch - 906us/step
+Epoch 27/40
+149671/149671 - 135s - loss: 22.7423 - 135s/epoch - 900us/step
+Epoch 28/40
+149671/149671 - 136s - loss: 22.6575 - 136s/epoch - 907us/step
+Epoch 29/40
+149671/149671 - 135s - loss: 22.7179 - 135s/epoch - 902us/step
+Epoch 30/40
+149671/149671 - 136s - loss: 22.6910 - 136s/epoch - 910us/step
+Epoch 31/40
+149671/149671 - 136s - loss: 22.6929 - 136s/epoch - 908us/step
+Epoch 32/40
+149671/149671 - 136s - loss: 22.6726 - 136s/epoch - 906us/step
+Epoch 33/40
+149671/149671 - 135s - loss: 22.6803 - 135s/epoch - 902us/step
+Epoch 34/40
+149671/149671 - 136s - loss: 22.6440 - 136s/epoch - 909us/step
+Epoch 35/40
+149671/149671 - 136s - loss: 22.7024 - 136s/epoch - 912us/step
+Epoch 36/40
+149671/149671 - 136s - loss: 22.6805 - 136s/epoch - 910us/step
+Epoch 37/40
+149671/149671 - 136s - loss: 22.6848 - 136s/epoch - 911us/step
+Epoch 38/40
+149671/149671 - 135s - loss: 22.6086 - 135s/epoch - 905us/step
+Epoch 39/40
+149671/149671 - 136s - loss: 22.6426 - 136s/epoch - 908us/step
+Epoch 40/40
+149671/149671 - 136s - loss: 22.6077 - 136s/epoch - 909us/step
+
+4678/4678 [==============================] - 3s 586us/step
+1707/1707 [==============================] - 1s 577us/step
+Train Score: 4.65 RMSE
+Test Score: 5.00 RMSE
+
+427/427 [==============================] - 1s 727us/step - loss: 24.9993
+test loss, test acc: 24.999324798583984
