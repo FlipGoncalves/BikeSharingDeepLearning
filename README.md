@@ -1,25 +1,27 @@
-# Bike SHaring Deep Learning Prediction
+# Bike Sharing Deep Learning Prediction
 
-## Objectives
-- most/least frequented places by day/month/season
-- most/least paused places by day/month/season
-- most/least frequented docks by day/month/season
-- path to most popular places simulator
-- predition of possible bike damage
-- predition of worst roads to bike on
-- predition of best places for docks by season
-- predition of best docks for virtual docks by season
+## Problem
+In the modern days, there is a ever lasting search for new ways to commute between two different places.
 
-## Messages
-- physical/virtual unlocks
-- physical/virtual locks
-- keepalives
+As such, the bike sharing business is blooming and each passing day, more companies are investing in this type of systems.
 
-## Actions
-- where did a bike leave
-- where did a bike go
-- the general idea of where the bike went
-- where the bike stopped
+With this, there is a need to predict the number of bikes that may end their trip in each station, as for to be more useful for the user to understand and identity which stations he should drop his bike, or rent one.
 
-## Contributions
+## Solution
+With this, I created two different models:
+- Based on Stations
+- Based on Time Span
+
+### Stations Based Model
+This model was created by dividing 40 stations into three different clusters: 60% for training, 20% for testing and 20% for validation.
+
+### Time Based Model
+This model was created by dividing the time span of our dataset, one year, into three different clusters: 8 months for training, 2 months for testing and 2 months for validation.
+
+## Made By
 Filipe Gonçalves, 98083
+
+## Acknowledgements
+Pétia Georgieva, Professor
+Diogo Macedo de Sousa, with his thesis: "Decision Support Service for Bewegen Bike-Sharing Systems"
+
