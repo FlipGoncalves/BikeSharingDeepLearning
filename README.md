@@ -46,4 +46,5 @@ Filipe Gonçalves, 98083
 
 ## Acknowledgements
 Pétia Georgieva, Professor
+
 Diogo Macedo de Sousa, with his thesis: "Decision Support Service for Bewegen Bike-Sharing Systems"
